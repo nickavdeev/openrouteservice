@@ -25,7 +25,6 @@ node_modules/
 # Ignore all ors-config files except for the sample one, useful for development and testing
 ors-api/src/main/resources/ors-config*
 ors-config*
-ors-docker/**
 
 envs/
 ors-config-repo/
